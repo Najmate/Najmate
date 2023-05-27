@@ -1,9 +1,13 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A80895&&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!+;Me+chamo+Jo%C3%A3o+Vitor;Sou+um+desenvolvedor+Front-End+" alt="Typing SVG" /></a>
-  <div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A80895&&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!+;Me+chamo+Jo%C3%A3o+Vitor;Sou+um+desenvolvedor+Front-End+" alt="Typing SVG" /></a>
+  </div>
+    
+ ## 
+- 💻 <b>Desenvolvedor Front-End</b>
+- 🌱 <b>Atualmente estou estudando: React e Angular</b>
+- 💬 <b>Pergunte-me sobre: ​​🎲 RPG de mesa ; 🎮 Jogos; 🖤Jujutsukaisen;</b>
 
-  ##
-  
+ ## 
+    
 <div align="center">
   <a href="https://github.com/Najmate">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Najmate&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
