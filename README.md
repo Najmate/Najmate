@@ -4,7 +4,7 @@
  ## 
 - 💻 <b>Desenvolvedor Front-End</b>
 - 🌱 <b>Atualmente estou estudando: React e Angular</b>
-- 💬 <b>Pergunte-me sobre: ​​🎲 RPG de mesa ; 🎮 Jogos; 🖤Jujutsukaisen;</b>
+- 💬 <b>Pergunte-me sobre: ​​🎲 RPG de mesa ; 🎮 Jogos; 🖤Jujutsu kaisen;</b>
 
  ## 
     
